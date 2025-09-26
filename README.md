@@ -18,29 +18,7 @@ All posts persist even after the page is reloaded.
 - Data persistence using localStorage
 
 ## Screenshots
-
-### Post List (10 Seed Posts)
-![Post List 1](screenshots/post-list-1.png)
-![Post List 2](screenshots/post-list-2.png)
-![Post List 3](screenshots/post-list-3.png)
-![Post List 4](screenshots/post-list-4.png)
-
-### Create Post
-![Create Post Form Empty](screenshots/create-post-empty.png)
-![Create Post Form Filled](screenshots/create-post-filled.png)
-![Post Added in Post List](screenshots/post-added-postlist.png)
-
-### View Post
-![View Post Details](screenshots/view-post.png)
-
-### Edit Post
-![After Clicking Edit](screenshots/edit-post-button.png)
-![After Updating Post](screenshots/post-updated-postlist.png)
-
-### Delete Post
-![Before Delete](screenshots/post-before-delete.png)
-![After Delete](screenshots/post-after-delete.png)
-
+screenshots are in screenshots folder
 ## Installation and Running
 Clone the repository:  
 git clone <your-repo-url>  
