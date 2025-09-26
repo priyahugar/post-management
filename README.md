@@ -18,7 +18,7 @@ All posts persist even after the page is reloaded.
 - Data persistence using localStorage
 
 ## Screenshots
-# screenshots are in screenshots folder
+ screenshots are in screenshots folder
 ## Installation and Running
 Clone the repository:  
 git clone <your-repo-url>  
